@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Backend large data
+backend/data/
+backend/models/
+*.csv
+*.pkl
+*.db
+
+# Logs
+backend/logs/
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# General
+node_modules/
+build/
