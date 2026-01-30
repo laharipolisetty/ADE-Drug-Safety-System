@@ -176,3 +176,4 @@ Integration with hospital systems
 The Adverse Drug Effect Detection and Safety Analytics System provides a scalable, intelligent, and real-time approach to pharmacovigilance. By combining Machine Learning with modern web technologies, the system helps improve patient safety, reduce medication risks, and support clinical decision-making.
 
 ✅ This project demonstrates real-world healthcare AI implementation and meets industry-level standards.
+
